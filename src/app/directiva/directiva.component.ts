@@ -11,7 +11,7 @@ export class DirectivaComponent {
   habilitar = true;
 
   constructor(){
-    //constructor vacio
+    //constructor
   }
 
   setHabilitar(): void {
