@@ -4,10 +4,8 @@
     "\\.angular",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\clientes",
-    "\\src\\app\\header",
-    "\\src\\assets"
+    "\\src\\app\\clientes"
   ],
-  "SelectedNode": "\\src\\assets\\.gitkeep",
+  "SelectedNode": "\\angular.json",
   "PreviewInSolutionExplorer": false
 }
